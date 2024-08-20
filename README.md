@@ -11,7 +11,7 @@
 <a href="https://dev.to/teachdian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="teachdian" height="30" width="40" /></a>
 <a href="https://twitter.com/teachdian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="teachdian" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18000240/teachdian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="teachdian" height="30" width="40" /></a>
-<a href="https://kaggle.com/teachdian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="teachdian" height="30" width="40" /></a>
+<a href="https://kaggle.com/johnphilipsabinet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="teachdian" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/teachdian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="teachdian" height="30" width="40" /></a>
 </p>
 
