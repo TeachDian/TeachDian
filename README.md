@@ -32,8 +32,8 @@ The bio section is still a template, so feel free to personalize it!
 
 I'm a passionate and results-driven developer with a strong foundation in both front-end and back-end technologies. My journey into tech started with a curiosity for how things work, and it has evolved into a deep love for building intelligent, user-centric applications and exploring the fascinating world of AI/ML.
 
-- 🔭 I’m currently working on a **[Your Project Name]** and diving deeper into **[A Technology, e.g., cloud-native applications with Docker and AWS]**.
-- 🌱 I’m currently learning about **[A New Skill, e.g., advanced concepts in PyTorch and deploying ML models at scale]**.
+- 🔭 I’m currently working on a **Thesis Systems** and diving deeper into **Machine learning, LLMS and custom OS**.
+- 🌱 I’m currently learning about **php and other web framework besides react and nextjs**.
 - 👯 I’m looking to collaborate on **open-source projects related to data science or web development**.
 - 📫 You can reach my professional inbox at **sabinex.dev@gmail.com** or my personal at **johnphilip.sabinet0924@gmail.com**.
 
